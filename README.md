@@ -18,6 +18,6 @@ In my open-source work, I go as close to the metal as possible. I build zero-cos
 *   Optimizing **`sharded-timing-wheel`**: Implementing $O(1)$ constant-time scheduling and custom Slab Allocators in Rust to eliminate heap fragmentation.
 
 ### Let's Connect
-*   **LinkedIn:**[linkedin.com/in/your-profile-url]([https://linkedin.com/in/your-profile-url](https://www.linkedin.com/in/ankurrathore/))
+*   **LinkedIn:**[https://linkedin.com/in/your-profile-url](https://www.linkedin.com/in/ankurrathore/)
 *   **Website / Blog:** [ankurrathore.net.in](https://ankurrathore.net.in)
 *   **Email:** rathore.ankur@gmail.com
