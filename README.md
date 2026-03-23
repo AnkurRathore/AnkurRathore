@@ -1,4 +1,4 @@
-# Hi, I'm Ankur Rathore ⚡
+# Hi, I'm Ankur Rathore 
 
 **Lead Systems Architect | High-Throughput Data Pipelines | Linux Performance**
 
